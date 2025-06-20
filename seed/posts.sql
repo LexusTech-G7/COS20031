@@ -1,0 +1,9 @@
+INSERT INTO `Post` VALUES
+  (1001,1,101,'Pump #2 pressure drop','Observed 500 psi → 320 psi in 15 min.','2025-06-03 07:30',NULL,0,15),
+  (1002,2,102,'Safety Alert: HOT-WORK permit','New hot-work rules effective immediately.','2025-06-03 08:00',NULL,1,120),
+  (1003,3,103,'May KPI snapshot','Asset uptime 93 %, below 95 % target.','2025-06-03 09:00',NULL,0,45),
+  (1004,4,104,'Onboarding checklist v2','Added HSE induction video links.','2025-06-03 10:00',NULL,0,33),
+  (1005,1,101,'Rig-floor photo','See attached for leaking hose.','2025-06-03 10:30',NULL,0,22),
+  (1006,3,105,'Should we move to 21/21 roster?','Vote below.','2025-06-03 11:00',NULL,0,88),
+  (1007,2,102,'Minor hand injury reported','Bandaged – see details. Any immediate fix?','2025-06-03 12:00',NULL,0,70),
+  (1008,1,101,'Which grease suits top-drive?','Shell Gadus vs Mobilith?','2025-06-03 13:00',NULL,0,18);

@@ -1,0 +1,2 @@
+INSERT INTO `Poll` VALUES
+  (6001,1006,'Switch to 21/21 roster?','["Yes","No","Undecided"]',172800);

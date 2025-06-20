@@ -1,0 +1,5 @@
+INSERT INTO `Tag` VALUES
+  (1,'maintenance'),(2,'urgent'),(3,'safety'),(4,'policy'),
+  (5,'kpi'),(6,'report'),(7,'hr'),(8,'onboarding'),
+  (9,'photo'),(10,'issue'),(11,'poll'),(12,'roster'),
+  (13,'incident'),(14,'hse'),(15,'question'),(16,'lube');
