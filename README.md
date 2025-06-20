@@ -104,9 +104,8 @@ ORDER BY posts DESC;
 
 ## 7 ER diagram
 
-```
+
 ![ER diagram](docs/er_viva_engage.png)
-```
 
 ---
 
