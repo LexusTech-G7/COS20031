@@ -104,14 +104,9 @@ ORDER BY posts DESC;
 
 ## 7 ER diagram
 
-Add an exported PNG/SVG of your draw.io or dbdiagram.io model to
-`docs/er_viva_engage.png` and it will render like this:
-
 ```
 ![ER diagram](docs/er_viva_engage.png)
 ```
-
-*(comment out if you don’t want the image in the README yet).*
 
 ---
 
