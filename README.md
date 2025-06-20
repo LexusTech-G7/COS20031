@@ -109,10 +109,4 @@ ORDER BY posts DESC;
 
 ---
 
-## 8 License
-
-MIT — use it, fork it, break it, fix it.
-
----
-
 Maintained by **Group LexusTech** · COS20031 · Swinburne · 2025.
